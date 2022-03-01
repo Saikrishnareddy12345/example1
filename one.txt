@@ -1,4 +1,9 @@
 this is developer1 from one.txt
+<<<<<<< HEAD
 echo dev2
 this is sai from developer2
 this is sai krish from developer2
+=======
+this is sai from developer1
+this is sai krish from developer1
+>>>>>>> 2a4c1af375e3ea92a2f60339a2aace137f86d44d
